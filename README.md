@@ -1,3 +1,3 @@
 # lightshatterz.github.io
 
-1
+Repository for my website
